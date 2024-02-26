@@ -9,7 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
     "@module-federation/nextjs-mf": "^6.0.7",
+    "@mui/icons-material": "^5.15.11",
+    "@mui/material": "^5.15.11",
     "next": "13.1.6",
     "react": "^18",
     "react-dom": "^18"
